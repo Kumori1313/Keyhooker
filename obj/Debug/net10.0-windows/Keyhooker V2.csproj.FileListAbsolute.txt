@@ -1,0 +1,14 @@
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\bin\Debug\net10.0-windows\Keyhooker V2.exe
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\bin\Debug\net10.0-windows\Keyhooker V2.deps.json
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\bin\Debug\net10.0-windows\Keyhooker V2.runtimeconfig.json
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\bin\Debug\net10.0-windows\Keyhooker V2.dll
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\bin\Debug\net10.0-windows\Keyhooker V2.pdb
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\obj\Debug\net10.0-windows\Keyhooker V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\obj\Debug\net10.0-windows\Keyhooker V2.AssemblyInfoInputs.cache
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\obj\Debug\net10.0-windows\Keyhooker V2.AssemblyInfo.cs
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\obj\Debug\net10.0-windows\Keyhooker V2.csproj.CoreCompileInputs.cache
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\obj\Debug\net10.0-windows\Keyhooker V2.dll
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\obj\Debug\net10.0-windows\refint\Keyhooker V2.dll
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\obj\Debug\net10.0-windows\Keyhooker V2.pdb
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\obj\Debug\net10.0-windows\Keyhooker V2.genruntimeconfig.cache
+C:\Ishaan\Coding\AI\Claude\C#\Keyhooker V2\obj\Debug\net10.0-windows\ref\Keyhooker V2.dll
