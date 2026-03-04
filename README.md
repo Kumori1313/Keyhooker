@@ -1,4 +1,8 @@
-# Keyhooker
+<p align="center">
+  <img src="Cloudys_Keyhooker_Icon.png" alt="Cloudy's_Keyhooker_Icon" width="200">
+</p>
+
+# Cloudy's Keyhooker
 
 > A lightweight Windows system-tray utility that maps global hotkeys to process launches — configure once, trigger anything from anywhere.
 
