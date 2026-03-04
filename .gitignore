@@ -1,0 +1,138 @@
+# ========================
+# Security & Secrets
+# ========================
+# Environment and secrets files — never commit credentials or API keys
+.env
+.env.*
+!.env.example
+!.env.template
+*.secret
+*.secrets
+secrets.json
+secrets.yaml
+secrets.yml
+credentials.json
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+*.cer
+*_rsa
+*_dsa
+*_ecdsa
+*_ed25519
+
+# ========================
+# Build Artifacts & Compiled Output
+# ========================
+# MSBuild output directories
+[Bb]in/
+[Oo]bj/
+
+# Publish output
+[Pp]ublish/
+PublishProfiles/
+
+# ========================
+# Dependencies & Package Managers
+# ========================
+# NuGet restore artifacts (fully reproducible via `dotnet restore`)
+*.nupkg
+*.snupkg
+**/[Pp]ackages/
+!**/[Pp]ackages/build/
+nuget.config.user
+.nuget/
+
+# ========================
+# Visual Studio & MSBuild Files
+# ========================
+# Visual Studio solution user options (per-developer settings)
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2015/2017 cache and temp directories
+.vs/
+
+# ReSharper (JetBrains) cache and output
+_ReSharper*/
+*.ReSharper
+.idea/
+
+# Rider
+*.DotSettings.user
+
+# MSBuild binary and source logs
+*.binlog
+msbuild.log
+
+# ========================
+# Testing & Coverage
+# ========================
+# Test result files
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+
+# Code coverage
+coverage/
+*.coverage
+*.coveragexml
+**/coverage.cobertura.xml
+
+# ========================
+# Logs & Temporary Files
+# ========================
+*.log
+*.tmp
+*.temp
+~$*
+
+# ========================
+# Operating System Files (Windows)
+# ========================
+# Windows Explorer metadata
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows shortcut files
+*.lnk
+
+# ========================
+# Operating System Files (macOS)
+# ========================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ========================
+# Deployment & Installer Artifacts
+# ========================
+# ClickOnce deployment files
+*.application
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload
+
+# Setup/installer output
+Setup/Release/
+Setup/Debug/
+*.msi
+
+# ========================
+# Crash Dumps & Diagnostics
+# ========================
+*.dmp
+*.mdmp
